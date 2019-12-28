@@ -2,7 +2,7 @@
     "name": "portfolio-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Aman-zishan.github.io/Aman-zishan.github.io",
+    "homepage": "https://Aman-zishan.github.io/portfolio",
     "dependencies": {
         "gh-pages": "^2.0.1",
         "react": "^16.8.3",

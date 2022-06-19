@@ -24,10 +24,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Aman Zishan's Portfolio" />
-        <meta
-          property="og:description"
-          content="Nguyen Anh Phong's Portfolio"
-        />
+        <meta property="og:description" content="Zishan's Portfolio" />
         <meta property="og:image" content="/avatar.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
